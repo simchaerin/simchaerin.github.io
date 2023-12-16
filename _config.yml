@@ -73,7 +73,7 @@ theme_mode: dark
 img_cdn: "https://chirpy-img.netlify.app/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=620&dpr=1&s=none"
+avatar: "https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202105/22/koreadognews/20210522152933617uzcd.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
