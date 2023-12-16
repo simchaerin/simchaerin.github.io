@@ -14,11 +14,10 @@ render_with_liquid: false
 ### Caption
 
 Add italics to the next line of an image, then it will become the caption and appear at the bottom of the image:
-
-```markdown
+ 
 ![img-description](/assets/img/dnn/KakaoTalk_20231216_192912357.jpg)
 _Image Caption_
-```
+
 {: .nolineno}
 
 ### Size
