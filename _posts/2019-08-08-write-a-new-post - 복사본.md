@@ -20,7 +20,7 @@ Add italics to the next line of an image, then it will become the caption and ap
 
 In order to prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image.
  
-![Desktop View](./img/KakaoTalk_20231216_192912357.jpg){: width="700" height="400" }
+![Desktop View](/img/KakaoTalk_20231216_192912357.jpg){: width="700" height="400" }
  
 {: .nolineno}
 
