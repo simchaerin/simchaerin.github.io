@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fkr.freepik.com%2Fphotos%2Fcat&psig=AOvVaw1Nf2ZbSSDK1Cv9VWemsYh2&ust=1702806779604000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiq2MHXk4MDFQAAAAAdAAAAABAD"
+avatar: "https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fwww.fitpetmall.com%2Fblog%2Fwhy-do-cats-rub&psig=AOvVaw1Nf2ZbSSDK1Cv9VWemsYh2&ust=1702806779604000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiq2MHXk4MDFQAAAAAdAAAAABAI"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
