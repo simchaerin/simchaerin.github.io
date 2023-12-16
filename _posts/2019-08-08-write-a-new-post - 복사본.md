@@ -20,7 +20,7 @@ Add italics to the next line of an image, then it will become the caption and ap
 
 In order to prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image.
  
-![Desktop View](/img/KakaoTalk_20231216_192912357.jpg){: width="700" height="400" }
+![Desktop View](https://private-user-images.githubusercontent.com/87344125/290988500-ce93096d-f23d-4e29-a44f-08a2abdb8cd8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3MjUzODksIm5iZiI6MTcwMjcyNTA4OSwicGF0aCI6Ii84NzM0NDEyNS8yOTA5ODg1MDAtY2U5MzA5NmQtZjIzZC00ZTI5LWE0NGYtMDhhMmFiZGI4Y2Q4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDExMTEyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1ZDU2NjkzNzIyYjJjY2QxZGRiMmY1NmNjZmRmYWExNTRmNGZmNjBkODdjZWM5Yjg1YzRjZjRiNTgxYzFhZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.phlL3762zJh5OxpqNu8FayAwkluzgqyARIduyn_n8n4){: width="700" height="400" }
  
 {: .nolineno}
 
