@@ -1,5 +1,5 @@
 ---
-title: dnn
+title: text and typography
 author: cotes
 date: 2023-12-16 20:44:00 +0800
 categories: [Blogging, Demo]
